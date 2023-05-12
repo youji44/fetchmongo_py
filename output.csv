@@ -1,0 +1,5 @@
+DBName,Size,PackageCount
+admin,20539.0,0
+config,36864.0,0
+local,40058.0,0
+testmongo,4096.0,0
